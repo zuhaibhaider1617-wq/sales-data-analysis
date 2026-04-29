@@ -5,6 +5,14 @@ This project focuses on cleaning and analyzing a real-world sales dataset using 
 
 ---
 
+## 📊 Key Highlights
+- Performed data cleaning and preprocessing  
+- Created Delivery Time feature  
+- Analyzed shipping efficiency  
+- Conducted correlation analysis
+
+---
+
 ## 🧹 Data Cleaning
 - Handled missing values in Postal Code  
 - Converted data types (dates and postal codes)  
@@ -26,6 +34,15 @@ This project focuses on cleaning and analyzing a real-world sales dataset using 
 - Delivery time is consistent (~4 days)  
 - Central region is slightly slower (~4.07 days)  
 - East region is fastest (~3.91 days)  
+
+---
+
+### 📊 Correlation Analysis
+- Analyzed relationship between Sales and Delivery Time  
+- Correlation value: **-0.005**  
+- Result: No significant relationship between delivery speed and sales  
+
+👉 This suggests that faster delivery does not directly impact sales in this dataset.
 
 ---
 
